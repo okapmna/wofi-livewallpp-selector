@@ -1,0 +1,1 @@
+# livewallpp-selector-sway
